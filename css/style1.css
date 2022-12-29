@@ -4,12 +4,12 @@
 @font-face {
     font-family: 'SNsanafonmaru';
     src: local('SNsanafonmaru'),
-        url('/font/SNsanafonmaru.woff') format('woff');
+        url(../font/SNsanafonmaru.woff);
   }
 @font-face {
     font-family: 'KurewaGothicCjkTc-Bold';
     src: local('KurewaGothicCjkTc-Bold'),
-        url('/font/KurewaGothicCjkTc-Bold\ \(1\).woff') format('woff');
+        url(../font/KurewaGothicCjkTc-Bold\ \(1\).woff);
   }
 
 html{
